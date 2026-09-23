@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./C98E5D2B-B99C-4AD8-BBFC-E38BFF89476A.png" alt="Shadova AI — AI Systems, Automation & Cloud Applications" width="100%">
+  <img src="./assets/shadova-ai-banner.png" alt="Shadova AI — AI Systems, Automation & Cloud Applications" width="100%">
 </p>
+
+*Portfolio brand banner*
 
 # James Busby — Shadova AI
 
