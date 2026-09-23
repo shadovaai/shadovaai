@@ -6,9 +6,9 @@
 
 # James Busby — Shadova AI
 
-### AI Solutions, Web Applications & Technical Implementation Specialist
+### Software Developer & AI Solutions / Technical Implementation Specialist
 
-I design and implement practical AI-enabled business systems, responsive websites and web applications that connect frontend experiences, cloud infrastructure, automation, databases, APIs, and business workflows.
+I design and build custom software, AI-powered business systems, web and mobile applications, automation platforms, dashboards, and cloud-connected products that combine frontend experiences, databases, APIs, infrastructure, and business workflows.
 
 ## Featured portfolio
 
@@ -18,14 +18,27 @@ I design and implement practical AI-enabled business systems, responsive website
 | **BizNova** | AI-assisted commerce, inventory, publishing and operational control | [View BizNova](https://github.com/shadovaai/biznova) |
 | **Spirit Vibestik** | Member platform, guided journeys, digital content, community and AI-assisted experiences | [View Spirit Vibestik](https://github.com/shadovaai/spiritvibetik) |
 
-## Web & app delivery
+## Shadova AI services
 
-- Responsive business websites and product landing experiences
-- Frontend implementation for web applications and dashboards
-- Mobile-first UI and customer/member portals
-- Ecommerce and digital-product experiences
-- API-connected applications, authentication and payments
-- Rapid prototypes, staging environments and production handoff
+- Custom software development
+- AI-powered business systems
+- Web application development
+- Mobile application development
+- Business automation and workflow systems
+- SaaS platforms and internal tools
+- Dashboards, portals and admin systems
+- Ecommerce and digital-product platforms
+- API, database and third-party integrations
+- Authentication, payments and member systems
+- Cloud deployment, staging and production handoff
+- Business websites and digital experiences
+- Ongoing maintenance, support and technical implementation
+
+## Company model
+
+Shadova AI is structured to grow from founder-led delivery into a distributed software company. Projects can be delivered through a shared GitHub-based workflow with clear architecture, implementation standards, testing, review and production handoff.
+
+As the company grows, specialist developers, designers, QA engineers, cloud engineers and implementation professionals can join individual projects while the core architecture, standards and client delivery remain centrally governed.
 
 ## What I build
 
@@ -68,7 +81,7 @@ flowchart LR
 
 ## Open to opportunities
 
-Remote or hybrid roles in web application development, frontend implementation, technical implementation, solutions engineering, AI automation, application support, and business systems.
+Remote or hybrid roles in software development, web and mobile applications, technical implementation, solutions engineering, AI automation, application support, business systems, frontend development and full-stack product delivery.
 
 ## Portfolio policy
 
@@ -80,4 +93,4 @@ I do not publish production credentials, customer data, private infrastructure, 
 
 ### Shadova AI
 
-**Building AI-powered business systems, automation, cloud applications and digital products.**
+**Building custom software, AI-powered business systems, web and mobile applications, automation platforms and cloud products.**
