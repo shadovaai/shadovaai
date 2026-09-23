@@ -6,9 +6,9 @@
 
 # James Busby — Shadova AI
 
-### AI Solutions & Technical Implementation Specialist
+### AI Solutions, Web Applications & Technical Implementation Specialist
 
-I design and implement practical AI-enabled business systems that connect software, cloud infrastructure, automation, databases, and user-facing applications.
+I design and implement practical AI-enabled business systems, responsive websites and web applications that connect frontend experiences, cloud infrastructure, automation, databases, APIs, and business workflows.
 
 ## Featured portfolio
 
@@ -17,6 +17,15 @@ I design and implement practical AI-enabled business systems that connect softwa
 | **Covia AI** | AI business operations, Business Twin, decision support, approvals and governed automation | [View Covia AI](https://github.com/shadovaai/Covia-ai) |
 | **BizNova** | AI-assisted commerce, inventory, publishing and operational control | [View BizNova](https://github.com/shadovaai/biznova) |
 | **Spirit Vibestik** | Member platform, guided journeys, digital content, community and AI-assisted experiences | [View Spirit Vibestik](https://github.com/shadovaai/spiritvibetik) |
+
+## Web & app delivery
+
+- Responsive business websites and product landing experiences
+- Frontend implementation for web applications and dashboards
+- Mobile-first UI and customer/member portals
+- Ecommerce and digital-product experiences
+- API-connected applications, authentication and payments
+- Rapid prototypes, staging environments and production handoff
 
 ## What I build
 
@@ -34,7 +43,7 @@ I design and implement practical AI-enabled business systems that connect softwa
 LLM workflows · agent-style routing · prompt systems · workflow automation · decision support
 
 **Application Development**  
-React · TypeScript · JavaScript · responsive web applications · Python integrations
+React · TypeScript · JavaScript · responsive websites · web applications · UI implementation · Python integrations
 
 **Cloud & Delivery**  
 GitHub · Docker · cloud hosting · staging/production workflows · deployment handoff
@@ -56,6 +65,10 @@ flowchart LR
     E --> F[Testing + client review]
     F --> G[Production handoff]
 ```
+
+## Open to opportunities
+
+Remote or hybrid roles in web application development, frontend implementation, technical implementation, solutions engineering, AI automation, application support, and business systems.
 
 ## Portfolio policy
 
