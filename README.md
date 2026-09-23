@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./C98E5D2B-B99C-4AD8-BBFC-E38BFF89476A.png" alt="Shadova AI — AI Systems, Automation & Cloud Applications" width="100%">
+</p>
+
 # James Busby — Shadova AI
 
 ### AI Solutions & Technical Implementation Specialist
@@ -10,7 +14,7 @@ I design and implement practical AI-enabled business systems that connect softwa
 |---|---|---|
 | **Covia AI** | AI business operations, Business Twin, decision support, approvals and governed automation | [View Covia AI](https://github.com/shadovaai/Covia-ai) |
 | **BizNova** | AI-assisted commerce, inventory, publishing and operational control | [View BizNova](https://github.com/shadovaai/biznova) |
-| **SpiritVibeTik** | Member platform, guided journeys, digital content, community and AI-assisted experiences | [View SpiritVibeTik](https://github.com/shadovaai/spiritvibetik) |
+| **Spirit Vibestik** | Member platform, guided journeys, digital content, community and AI-assisted experiences | [View Spirit Vibestik](https://github.com/shadovaai/spiritvibetik) |
 
 ## What I build
 
