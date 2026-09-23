@@ -1,58 +1,64 @@
 # James Busby — Shadova AI
 
-**AI Solutions & Technical Implementation Specialist**
+### AI Solutions & Technical Implementation Specialist
 
-I build practical AI-enabled business systems that connect software, cloud infrastructure, automation, databases, and user-facing applications.
+I design and implement practical AI-enabled business systems that connect software, cloud infrastructure, automation, databases, and user-facing applications.
 
-## What I work on
+## Featured portfolio
+
+| Project | Focus | Repository |
+|---|---|---|
+| **Covia AI** | AI business operations, Business Twin, decision support, approvals and governed automation | [View Covia AI](https://github.com/shadovaai/Covia-ai) |
+| **BizNova** | AI-assisted commerce, inventory, publishing and operational control | [View BizNova](https://github.com/shadovaai/biznova) |
+| **SpiritVibeTik** | Member platform, guided journeys, digital content, community and AI-assisted experiences | [View SpiritVibeTik](https://github.com/shadovaai/spiritvibetik) |
+
+## What I build
 
 - AI workflow and business-process automation
+- Business dashboards and operational control systems
 - Web application architecture and implementation
-- GitHub-based delivery and deployment workflows
-- Cloud, Docker, APIs, databases, authentication, and integrations
-- Client-facing dashboards, portals, commerce, and content systems
-- Prototype-to-production handoff and staging environments
-
-## Selected projects
-
-### Kovia AI
-An intelligent operating layer for small and midsize businesses, bringing business data, daily briefings, decision support, customer/sales/finance/inventory views, email workflows, approvals, and governed automation into one operating experience.
-
-### BizNova
-A business and commerce platform focused on products, inventory, publishing, operational workflows, and AI-assisted management.
-
-### SpiritVibeTik
-An AI-assisted digital platform combining member experiences, content, guided journeys, automation, community features, and cloud delivery.
+- Cloud-connected applications and API integrations
+- Authentication, role-based access, payments and member systems
+- GitHub-based development, staging and production delivery
+- Database-backed workflows with auditability and human approval controls
 
 ## Technical toolkit
 
-**AI & Automation:** LLM workflows, agent-style routing, prompt systems, workflow automation  
-**Application:** React, TypeScript, JavaScript, Python integrations, responsive web applications  
-**Cloud & Delivery:** GitHub, Docker, cloud hosting, staging/production workflows  
-**Data & Integrations:** Databases, REST APIs, authentication, email integrations, payment and content systems  
-**Quality:** Testing, debugging, audit trails, role-based access, implementation documentation
+**AI & Automation**  
+LLM workflows · agent-style routing · prompt systems · workflow automation · decision support
+
+**Application Development**  
+React · TypeScript · JavaScript · responsive web applications · Python integrations
+
+**Cloud & Delivery**  
+GitHub · Docker · cloud hosting · staging/production workflows · deployment handoff
+
+**Data & Integrations**  
+Databases · REST APIs · authentication · email integrations · payment/content systems
+
+**Engineering Practice**  
+Testing · debugging · role-based access · audit trails · implementation documentation
 
 ## Delivery approach
 
-```
-Business requirement
-      ↓
-Rapid prototype
-      ↓
-GitHub source of truth
-      ↓
-Staging deployment
-      ↓
-Implementation + integrations
-      ↓
-Testing / client review
-      ↓
-Production handoff
+```mermaid
+flowchart LR
+    A[Business requirement] --> B[Rapid prototype]
+    B --> C[GitHub source of truth]
+    C --> D[Staging deployment]
+    D --> E[Implementation + integrations]
+    E --> F[Testing + client review]
+    F --> G[Production handoff]
 ```
 
-## Portfolio note
+## Portfolio policy
 
-Public portfolio repositories contain sanitized case studies and selected implementation examples only. Production credentials, customer data, private infrastructure, proprietary prompts, and internal AI services are intentionally excluded.
+My production systems remain private. Public repositories are intentionally sanitized and contain architecture, product thinking, selected implementation patterns, and safe examples only.
+
+I do not publish production credentials, customer data, private infrastructure, proprietary prompts, internal AI services, or live environment configuration.
 
 ---
-**Shadova AI** — building AI-powered business systems, automation, cloud applications, and digital products.
+
+### Shadova AI
+
+**Building AI-powered business systems, automation, cloud applications and digital products.**
